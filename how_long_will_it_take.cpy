@@ -1,0 +1,1 @@
+MATCH (x) RETURN SUM(x.complexity);
